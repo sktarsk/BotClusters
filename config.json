@@ -1,12 +1,12 @@
 {   
     "bot1": {
-        "source": "https://github.com/<GitHub Username>/<repo1>.git",
-        "branch": "your-branch-name",
+        "source": "https://github.com/sktarsk/Z-Mirror.git",
+        "branch": "main",
         "env": {
-            "TOKEN": "",
-            "TOKEN2": ""
+            "TOKEN": "6434194475:AAF_ShhO2diPiuf__Jdb1UsBRC5m4ilkBWc",
+            "TOKEN2": "6434194475:AAF_ShhO2diPiuf__Jdb1UsBRC5m4ilkBWc"
         },
-        "run": ""
+        "run": "update.py"
     },
     "bot2": {
         "source": "https://github.com/<GitHub Username>/<repo2>.git",
