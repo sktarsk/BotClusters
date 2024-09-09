@@ -9,12 +9,12 @@
         "run": "update.py"
     },
     "bot2": {
-        "source": "https://github.com/sktarsk/metadata.git",
-        "branch": "main",
+        "source": "",
+        "branch": "",
         "env": {
-            "TOKEN": "6549383844:AAGAVPcR-xvmEbxdFaUD9WGMeGVnW4qBPQc"
+            "TOKEN": ""
         },
-        "run": "update.py"
+        "run": ""
     },
     "bot3": {
         "source": "https://<GitHub Username>:<GitHub Token>@github.com/<GitHub Username>/<private-repo>.git",
